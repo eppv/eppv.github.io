@@ -1,0 +1,15 @@
+
+# ide
+.vscode/
+.idea/
+
+# temp
+__pycache__/
+
+# build
+site/
+docs/
+
+# env
+.venv/
+*.env
