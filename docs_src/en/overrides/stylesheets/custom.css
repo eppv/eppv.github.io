@@ -1,0 +1,4 @@
+/* Hide the search bar */
+.md-search {
+    display: none !important;
+}

@@ -1,0 +1,51 @@
+site_name: eppv
+site_author: eppv
+# repo_url: https://github.com/eppv/eppv.github.io
+nav:
+  - main: index.md
+  - contacts: contacts.md
+
+theme:
+  name: material
+  custom_dir: ../en/overrides
+  features:
+    - navigation.tabs
+    - navigation.expand
+    - navigation.indexes
+    - navigation.top
+    # - toc.integrate
+    - toc.follow
+    - content.code.copy
+    - content.code.annotate
+    - search.suggest
+    - search.share
+  icon:
+    logo: material/infinity
+  palette:
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/lightbulb-on
+        name: Dark Mode
+      primary: black
+      accent: amber
+
+    # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/lightbulb
+        name: Light Mode
+      primary: white
+      accent: orange
+
+extra_css:
+  - stylesheets/custom.css
+
+extra:
+  alternate:
+    - name: English
+      link: /
+      lang: en
+    - name: Русский язык
+      link: /ru/
+      lang: ru
