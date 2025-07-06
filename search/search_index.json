@@ -1,0 +1,1 @@
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"main","text":"<p>Hi, there!</p> <p>My name is Eugene Popov and I am a data specialist.</p>"},{"location":"contacts/","title":"contacts","text":"<p>Contact me in Telegram: @Eugene_Popov</p>"}]}
