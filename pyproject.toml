@@ -1,7 +1,7 @@
 [project]
 name = "eppv-github-io"
 version = "0.1.0"
-description = "Personal GitHub Pages"
+description = "Personal GitHub Pages site"
 readme = "README.md"
 requires-python = ">=3.13"
 dependencies = [
