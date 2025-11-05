@@ -27,13 +27,6 @@
 * created an internal knowledge base containing description of business processes, data sources, and documentation on the created analytical products
 * Implemented Power BI to automate regular reporting
 
-#### Fresh 25 Management : Analyst
-
-> *July - November 2017*, *January - July 2019*
-
-* developed standardized forms of regular commercial reporting for the regional reatailer
-* created a unified scheme for working with data sources for analytics
-
 ## Skills
 
 **Common:** `team and budget management`, `problem structuring`, `data analysis`, `data visualization`, `knowledge management`, `data governance`
