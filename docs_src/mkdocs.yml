@@ -3,11 +3,12 @@ site_author: eppv
 # repo_url: https://github.com/eppv/eppv.github.io
 nav:
   - main: index.md
-  - contacts: contacts.md
+  - CV: cv.md
+  - CV (Russian): cv_ru.md
 
 theme:
   name: material
-  custom_dir: ../en/overrides
+  custom_dir: ./overrides
   features:
     - navigation.tabs
     - navigation.expand
@@ -40,12 +41,3 @@ theme:
 
 extra_css:
   - stylesheets/custom.css
-
-extra:
-  alternate:
-    - name: English
-      link: /
-      lang: en
-    - name: Русский язык
-      link: /ru/
-      lang: ru

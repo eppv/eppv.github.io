@@ -1,6 +1,0 @@
-INHERIT: ../en/mkdocs.yml
-site_name: eppv
-
-nav:
-  - главное: index.md
-  - контакты: contacts.md
