@@ -2,7 +2,7 @@
 
 **Eugene Popov**
 
-*Data specialist*
+*Data expert*
 
 ## Experience
 
